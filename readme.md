@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-hotel mangment application for the wild oasis hotels.
+Hotel mangment application for the wild oasis hotels.
